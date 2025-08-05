@@ -61,11 +61,18 @@ The goal is to support decision-making in areas such as product strategy, region
 
 ---
 
-## 🖼️ Preview (Add after uploading screenshots)
+## ## 📷 Screenshots
 
-> *Replace the placeholder path with your screenshot file path once uploaded*
+You can view the dashboard and chart visuals from the project here:
 
-![Dashboard Preview](Screenshots/dashboard.png)
+1. **Sales Dashboard View**  
+   ![Screenshot 1](https://github.com/PoojaKhaireGitHub/excel-pharma-sales-project/blob/main/Screenshots/Screenshot%20(94).png)
+
+2. **Profit and Revenue Analysis**  
+   ![Screenshot 2](https://github.com/PoojaKhaireGitHub/excel-pharma-sales-project/blob/main/Screenshots/Screenshot%20(95).png)
+
+3. **Chart & Graph Overview**  
+   ![Screenshot 3](https://github.com/PoojaKhaireGitHub/excel-pharma-sales-project/blob/main/Screenshots/Screenshot%20(96).png)
 
 ---
 
@@ -88,7 +95,7 @@ This project demonstrates how Excel can be used as a powerful business intellige
 ## 🙋‍♀️ About the Author
 **Pooja Khaire**  
 MBA in Business Analytics | Aspiring Business Analyst  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/pooja-khaire/) 
+https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558715_kw.linkedin%20login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9299905
 
 ---
 
