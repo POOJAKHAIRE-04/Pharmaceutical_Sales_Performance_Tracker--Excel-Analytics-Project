@@ -95,8 +95,7 @@ This project demonstrates how Excel can be used as a powerful business intellige
 ## 🙋‍♀️ About the Author
 **Pooja Khaire**  
 MBA in Business Analytics | Aspiring Business Analyst  
-https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.151761418307_crid.657403558715_kw.linkedin%20login_d.c_tid.kwd-12704335873_n.g_mt.e_geo.9299905
-
+https://www.linkedin.com/in/pooja-khaire-138361324/
 ---
 
 ## 🧠 Suggestions or Feedback?
